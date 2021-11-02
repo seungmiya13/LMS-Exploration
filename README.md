@@ -6,4 +6,9 @@ E2. sklearn_Classification.ipynb
 E3. camera_cat_whiskers.ipynb    
 E4. lyricist.ipynb  
 E5. face_embedding_with_celebrity.ipynb     
-E6. kaggle_kakr_housing.ipynb
+E6. kaggle_kakr_housing.ipynb    
+E7. NaverMovies_sentiment_classification.ipynb    
+E8. human_segmentation.ipynb
+E9. recommendata_Movielens.ipynb
+E10.
+E11. 
