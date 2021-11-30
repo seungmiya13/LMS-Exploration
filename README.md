@@ -61,3 +61,11 @@ LMS-Exploration
 ## E15. 트랜스포머로 만드는 대화형 챗봇
     - korean_chatbot.ipynb    
     - transformer_chatbot.ipynb    
+    
+## E16. 흐린 사진을 선명하게     
+    - try_SRGAN.ipynb    
+    - super_resolution.ipynb     
+    
+## E17. 인간보다 퀴즈를 잘푸는 인공지능    
+    - bert_pretrain.ipynb    
+    - bert_qna.ipynb     
