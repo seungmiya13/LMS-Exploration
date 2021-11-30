@@ -1,2 +1,3 @@
 # manually ignored
 korquad_train.json
+korquad_bert_none_pretrain.hdf5
